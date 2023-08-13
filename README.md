@@ -36,7 +36,7 @@ Insert wiring diagram image here.
 
 ## License
 
-This project is provided under the [MIT License](insert_license_link_here). Please refer to the license file for more details.
+This project is provided under the [MIT License](https://github.com/ReTr0-MaKeR/Health-Monitor-/blob/main/LICENSE). Please refer to the license file for more details.
 
 ## Author
 
