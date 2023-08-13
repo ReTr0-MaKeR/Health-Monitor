@@ -1,3 +1,16 @@
+/*
+ * Health Monitor - Arduino Code
+ * Author: Md. Tanvir Hassan
+ * Version: V3
+ * Date: [Insert Date Here]
+ *
+ * This code is authored by Md. Tanvir Hassan and is provided for educational purposes.
+ * You may use, modify, and distribute this code freely, but please retain this notice.
+ * The author is not liable for any consequences arising from the use of this code.
+ *
+ * This code is not for sale and is intended for educational and non-commercial use only.
+ */
+
 #include <math.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
