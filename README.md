@@ -1,7 +1,7 @@
 ## Health Monitor Arduino Project
 
 
-##Description
+Description
 
 The Health Monitor Arduino Project is a simple health monitoring system that utilizes an Arduino board, a MAX30100 Pulse Oximeter sensor, and a SIM800L GSM module. The system measures heart rate, blood oxygen level, and body temperature, displaying the information on an LCD screen. It also sends warning messages to a predefined phone number when certain health conditions are detected.
 
