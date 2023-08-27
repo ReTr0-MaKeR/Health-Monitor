@@ -50,6 +50,4 @@ V3
 
 This project is not intended to replace professional medical devices or advice. It is for educational purposes only. The author is not liable for any consequences arising from the use of this project.
 
----
 
-Feel free to personalize this README to match the specifics of your project. Make sure to include your wiring diagram image and provide accurate links to the license information. You can also add sections for troubleshooting, acknowledgments, or any other relevant information.
