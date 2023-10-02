@@ -30,9 +30,7 @@ This project is intended for educational and non-commercial purposes. Feel free 
 4. Power up the system and observe the health data on the LCD screen.
 5. The system will automatically send warning SMS messages when certain health conditions are detected.
 
-## Wiring Diagram
 
-Insert wiring diagram image here.
 
 ## License
 
