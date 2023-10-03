@@ -16,7 +16,7 @@ This project is intended for educational and non-commercial purposes. Feel free 
 
 ## Components
 
-- Arduino board (e.g., Arduino Uno)
+- Arduino board (e.g. Arduino NANO)
 - MAX30100 Pulse Oximeter sensor
 - SIM800L GSM module
 - Liquid Crystal Display (LCD) with I2C interface
